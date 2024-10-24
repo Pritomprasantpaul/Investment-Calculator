@@ -1,3 +1,6 @@
+# Output UI
+![image](https://github.com/user-attachments/assets/b41363c6-8022-4cf2-8a32-d39396b7438e)
+
 # EssentialsPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
